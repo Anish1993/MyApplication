@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nav_list">List</string>
+    <string name="nav_detail">Detail</string>
+    <string name="nav_cmnt">Comment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="no_internet">Please check your internet connection!</string>
+    <string name="server_issue">Please try after sometime!</string>
+    <string name="something_went_wrong">Something went wrong, please try after sometime!</string>
+
+</resources>
